@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "JADE's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "한국어가 문제였던 것 같다"
-description              : "An amazing website."
+name                     : "서지영"
+description              : " "
 url                      : "https://jade0520.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jade0520/jade0520.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Seo Jiyoung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "드디어 만들었다ㅏㅏㅏ"
+  location         : "Korea"
   email            :
   links:
     - label: "Email"
